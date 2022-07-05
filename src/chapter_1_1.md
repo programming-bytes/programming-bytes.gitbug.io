@@ -1,7 +1,7 @@
 # Comments
 
 Comments are helper text to give better understanding of the code flow.
-Comments are ignored in executing the code.
+Comments are ignored by interpreter or compiler .
 
 Python supports folowing comments
 - \# Line comments

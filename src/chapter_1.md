@@ -8,7 +8,7 @@ print("Hello World")
 ```
 <mark style="background-color: lightgray">print</mark>  is a function that prints text to the console.
 
-Run the above programming
+Run the above program
 
 ```
 > python hello.py

@@ -1,0 +1,6 @@
+[book]
+authors = ["Architech User"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Programming Bytes"
